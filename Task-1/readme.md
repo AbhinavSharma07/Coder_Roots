@@ -19,3 +19,6 @@ drop the rows).
 ○ Find the average salary of employees in each department.
 ○ List all employees who joined after the year 2020.
 4. Expected Output: Submit a cleaned DataFrame and the results of your analysis.
+
+
+
