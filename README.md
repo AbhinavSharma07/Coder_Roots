@@ -38,6 +38,7 @@ Explore a public dataset through visualizations.
 
 ### Dataset:
 Any public dataset can be used (e.g., Titanic dataset).
+[Titanic dataset](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 
 ### Steps:
 1. Load the dataset into a Pandas DataFrame.
