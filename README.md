@@ -9,6 +9,9 @@ This repository contains solutions to three tasks involving data manipulation, v
 ### Objective:
 Clean and analyze the `employee_data.csv` dataset.
 
+### Dataset:
+[Employee_Data](https://github.com/gurmindero7/test_datasets/blob/main/employee_data.csv)
+
 ### Steps:
 1. Remove duplicate entries.
 2. Handle missing values (fill them with default values or drop the rows).
