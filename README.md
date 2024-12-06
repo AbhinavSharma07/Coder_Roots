@@ -19,7 +19,7 @@ Clean and analyze the `employee_data.csv` dataset.
    - List employees who joined after 2020.
 
 ### Code:
-Refer to the script `task1_Data Manipulation and Cleaning.ipynb`.
+Refer to the script `Task1_Data Manipulation and Cleaning.ipynb`.
 
 ### Outputs:
 - Cleaned DataFrame.
@@ -43,7 +43,7 @@ Any public dataset can be used (e.g., Titanic dataset).
 3. Generate a correlation heatmap for numerical variables.
 
 ### Code:
-Refer to the script `task2_data_visualization.py`.
+Refer to the script `Task2_Data Visualization.ipynb`.
 
 ### Outputs:
 - Visualizations:
@@ -76,7 +76,7 @@ Build a classification model to predict the presence of diabetes based on health
    - Evaluate models using accuracy, precision, recall, and F1 score.
 
 ### Code:
-Refer to the script `task3_predictive_modeling.py`.
+Refer to the script `Task3_Predictive Modeling.ipynb`.
 
 ### Outputs:
 - Preprocessed dataset.
@@ -89,5 +89,8 @@ Refer to the script `task3_predictive_modeling.py`.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data-science-tasks.git
-   cd data-science-tasks
+   git clone https://github.com/AbhinavSharma07/Coder_Roots.git
+   cd Coder_Roots
+
+
+
