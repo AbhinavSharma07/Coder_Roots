@@ -1,7 +1,9 @@
 ## Task 1: Data Manipulation and Cleaning
 
 Given a CSV file named employee_data.csv with the following columns: EmployeeID,
-Name, Department, Salary, JoiningDate, Status.Download the dataset from here:
+Name, Department, Salary, JoiningDate, Status.
+
+Download the dataset from here:
 https://github.com/gurmindero7/test_datasets/blob/main/employee_data.csv
 
 1. Data Cleaning: Write Python code to:
