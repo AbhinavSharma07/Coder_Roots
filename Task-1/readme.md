@@ -1,24 +1,29 @@
-# Task 1: Data Manipulation and Cleaning
+# Coder_Roots Assignment
 
-Given a CSV file named employee_data.csv with the following columns: EmployeeID,
-Name, Department, Salary, JoiningDate, Status.
+## Task 1: Data Manipulation and Cleaning
 
-### Download the dataset from here:
-https://github.com/gurmindero7/test_datasets/blob/main/employee_data.csv
+### Objective:
+Clean and analyze the `employee_data.csv` dataset.
 
-### Things to do :
-1. Data Cleaning: Write Python code to:
-○ Remove any duplicate entries.
-○ Handle missing values (you can choose to fill them with a default value or
-drop the rows).
-○ Convert the JoiningDate column to a proper datetime format.
-○ Filter out employees who are no longer working (where Status is
-'Resigned').
+### Dataset:
+[Employee_Data](https://github.com/gurmindero7/test_datasets/blob/main/employee_data.csv)
 
-2. Analysis: After cleaning the data, perform the following:
-○ Find the average salary of employees in each department.
-○ List all employees who joined after the year 2020.
-4. Expected Output: Submit a cleaned DataFrame and the results of your analysis.
+### Steps:
+1. Remove duplicate entries.
+2. Handle missing values (fill them with default values or drop the rows).
+3. Convert the `JoiningDate` column to a proper datetime format.
+4. Filter out employees where the `Status` is "Resigned".
+5. Analyze the data:
+   - Find the average salary by department.
+   - List employees who joined after 2020.
 
+### Code:
+Refer to the script `Task1_Data Manipulation and Cleaning.ipynb`.
 
+### Outputs:
+- Cleaned DataFrame.
+- Average salary per department.
+- List of employees who joined after 2020.
+
+---
 
